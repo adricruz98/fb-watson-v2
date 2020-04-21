@@ -1,0 +1,7 @@
+---
+applications:
+  - name: app-name
+    memory: 128M
+    buildpack: sdk-for-nodejs
+    
+
