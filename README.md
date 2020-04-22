@@ -1,6 +1,8 @@
 
 # Integración Watson APIs: Assistant v2 y Visual Recognition con Facebook Messenger
 
+> Presentación [Watson APIs](https://ibm.box.com/s/5y256fajmhxr2dmo59ui6iwgjojeil7v)
+
 Esta aplicación demuestra una integración de las Watson APIs, conectando Facebook Messenger con Watson Assistant y Visual Recognition. Se desplegará en Cloud Foundry.
 
 Cloud Foundry Public provee un web endpoint, para ser llamado por Facebook Messenger a través de su Webhook. El mensaje es enviado a Watson Assistant para interactuar con un asistente virtual, si el mensaje es una imagen es enviado a Watson Visual Recognition.
