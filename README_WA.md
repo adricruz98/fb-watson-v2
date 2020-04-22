@@ -1,5 +1,7 @@
 # Crear un Skill para Watson Assistant
 
+> Modificado de: [Libardo Lara](https://github.com/libardolara)
+
 Una skill contiene los datos que Watson necesita para interactuar con el usuario de su aplicación. Watson analiza el contexto de la conversación y, a partir de esos datos, proporciona una respuesta útil al usuario.
 
 Las habilidades o skills constan de Intenciones, Entidades y Cuadros de dialogo. Para obtener más información consulte la [documentación de IBM Watson](https://cloud.ibm.com/docs/services/assistant?topic=assistant-skills#planning-your-entities).
